@@ -1,0 +1,10 @@
+ The upper Triangular Matrix is-
+   0.00000000       2.00000000       0.00000000       1.00000000       0.00000000    
+              NaN        -Infinity              NaN        -Infinity              NaN
+              NaN              NaN              NaN              NaN              NaN
+              NaN              NaN              NaN              NaN              NaN
+ The solution vector is
+X( 1)                 NaN
+X( 2)                 NaN
+X( 3)                 NaN
+X( 4)                 NaN
